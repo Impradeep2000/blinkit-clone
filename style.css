@@ -135,6 +135,7 @@
 .my-category-row{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 
@@ -153,6 +154,7 @@
     align-items: flex-start;
     margin-top: 30px;
     margin-bottom: 30px;
+    flex-wrap: wrap;
 }
 
 
@@ -162,6 +164,7 @@
     align-items: center;
     justify-content: space-between;
     background-color: #fcfcfc;
+    flex-wrap: wrap;
 }
 
 .row-2-col-1{
@@ -220,6 +223,7 @@
     padding: 10px;
     text-align: justify;
     width: 85vw;
+    flex-wrap: wrap;
 }
 
 td{
