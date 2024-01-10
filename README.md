@@ -4,7 +4,8 @@
 
 Welcome to my Blinkit clone project! This is a static implementation of the popular Blinkit app, built with HTML, CSS, and Bootstrap. It's designed to showcase a similar user interface with a touch of personal creativity.
 
-##Screenshots
+## Screenshots
+
 ![Blinkit](https://github.com/Impradeep2000/blinkit-clone/assets/95734296/9232d670-9450-4831-aa4e-17ce7eca7b42)
 
 ![Blinkit(1)](https://github.com/Impradeep2000/blinkit-clone/assets/95734296/eb471c18-2684-457d-b3e4-7dd430071670)
